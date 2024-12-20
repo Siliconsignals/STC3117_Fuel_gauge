@@ -1,7 +1,7 @@
 From e76ed8804f31a10d807a91617572598c4cf54020 Mon Sep 17 00:00:00 2001
 From: Tarang Raval <tarang.raval@siliconsignals.io>
 Date: Mon, 16 Dec 2024 12:21:13 +0530
-Subject: [PATCH v13 2/2] power: supply: Add STC3117 fuel gauge unit driver
+Subject: [PATCH 2/2] power: supply: Add STC3117 fuel gauge unit driver
 
 Adds initial support for the STC3117 fuel gauge.
 
