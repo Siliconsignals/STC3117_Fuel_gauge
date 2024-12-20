@@ -1,7 +1,7 @@
 From 74b9c5d3cb561c8d76599f35c6e024218e17181a Mon Sep 17 00:00:00 2001
 From: Tarang Raval <tarang.raval@siliconsignals.io>
 Date: Mon, 9 Dec 2024 16:22:16 +0530
-Subject: [PATCH v13 1/2] dt-bindings: power: supply: Add STC3117 Fuel Gauge
+Subject: [PATCH 1/2] dt-bindings: power: supply: Add STC3117 Fuel Gauge
 
 The STC3117 provides a simple fuel gauge via I2C.
 Add a DT schema to describe how to set it up in the device tree.
